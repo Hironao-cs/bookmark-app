@@ -11,6 +11,7 @@ ECサイトの商品ブックマークアプリ
 
 ## ③アプリのデプロイURL
 デプロイしている場合はURLを記入（任意）
+http://www.whitemarmot50.sakura.ne.jp/php_assignment02/index.php
  
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
